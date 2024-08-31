@@ -3,7 +3,6 @@ Welcome to the Blog Website project, a platform built using Django for bloggers 
 
 Features
 
-User Authentication: Sign up, login, and manage user accounts.
 
 Create, Edit, and Delete Posts: Authenticated users can create, edit, and delete their blog posts.
 
@@ -19,6 +18,4 @@ Django: The web framework used for building the site.
 
 SQLite: The default database used for development. (You can change to PostgreSQL or MySQL for production)
 
-Bootstrap: For responsive design and styling.
-
-HTML/CSS/JavaScript: Front-end technologies.
+HTML/CSS: Front-end technologies.
